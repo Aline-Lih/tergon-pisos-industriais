@@ -6,7 +6,7 @@ Projeto criado como peça de portfólio, demonstrando uma página de vendas (one
 
 ## 🔗 Demo ao vivo
 
-Publicado via Netlify: [sitetergon.netlify.app]
+Publicado via Netlify: [sitetergon](sitetergon.netlify.app)
 
 ## ✨ Sobre o projeto
 
