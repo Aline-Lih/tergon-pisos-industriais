@@ -2,7 +2,7 @@
 
 Landing page institucional desenvolvida para a **Tergon Pisos Industriais**, empresa fictícia de referência especializada em pisos industriais de alta resistência (epóxi, poliuretano cimentício e antiderrapante) para indústria e logística.
 
-Projeto criado como peça de portfólio, demonstrando uma página de vendas (one-page) completa: copywriting orientado a conversão, prova social com cases reais, e um layout responsivo construído do zero em HTML, CSS e JavaScript puros.
+Projeto criado como peça de portfólio, demonstrando uma página de vendas (one-page) completa: copywriting orientado a conversão, prova social com cases reais, e um layout responsivo construído do zero.
 
 ## 🔗 Demo ao vivo
 
