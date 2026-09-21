@@ -22,37 +22,6 @@ A página foi estruturada como um funil de conversão para geração de orçamen
 - **Botão flutuante do WhatsApp** para contato rápido.
 - **Menu responsivo** com toggle mobile (hambúrguer) via JavaScript vanilla.
 
-## 🛠️ Tecnologias
-
-- **HTML5** semântico, com dados estruturados **Schema.org** (`HomeAndConstructionBusiness`) para SEO local.
-- **CSS3** puro (custom properties, Grid e Flexbox, `clamp()` para tipografia fluida, media queries para 3 breakpoints).
-- **JavaScript vanilla** (sem frameworks) apenas para o toggle do menu mobile.
-- Meta tags **Open Graph** e **Twitter Card** para compartilhamento em redes sociais.
-- Sem dependências externas — projeto 100% estático, pronto para qualquer hospedagem (GitHub Pages, Netlify, Vercel, etc.).
-
-## 📁 Estrutura
-
-```
-├── index.html          # página única com todo o conteúdo e estilos
-└── img/                 # imagens usadas na página (hero, equipe, cases)
-```
-
-## ▶️ Rodando localmente
-
-Por ser um site 100% estático, basta abrir o arquivo diretamente no navegador:
-
-```bash
-git clone https://github.com/Aline-Lih/tergon-pisos-industriais.git
-cd tergon-pisos-industriais
-open index.html   # ou apenas dê duplo clique no arquivo
-```
-
-Ou sirva com qualquer servidor local simples:
-
-```bash
-python3 -m http.server 8000
-```
-
 ## ⚠️ Observações
 
 Este é um projeto de portfólio/demonstração. Nome da empresa, endereço, telefone, e-mail e cases apresentados são **fictícios**, criados para fins de exemplo de copywriting e layout.
